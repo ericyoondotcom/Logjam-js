@@ -1,0 +1,22 @@
+{
+  "name": "logjam-web",
+  "version": "1.0.0",
+  "description": "Logjam web library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericyoondotcom/Logjam-js.git"
+  },
+  "keywords": [
+    "logjam"
+  ],
+  "author": "Yoonicode",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ericyoondotcom/Logjam-js/issues"
+  },
+  "homepage": "https://github.com/ericyoondotcom/Logjam-js#readme"
+}
